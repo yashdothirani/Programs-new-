@@ -18,8 +18,11 @@ public class JdbcApp22 {
 		{
 			ResultSetMetaData md = rs.getMetaData();
 			System.out.println("column count : " + md.getColumnCount());
-			for(int i = 1;i < md.getColumnCount();i++) {
-				System.out.println("");
+			for(int i = 1;i <= md.getColumnCount();i++) {
+				System.out.println("-----------------------------");
+				System.out.println("Column name : " + md.getColumnName(i));
+				System.out.println("column type : " + md.getColumnTypeName(i));
+				System.out.println("column size : " + md.getColumnDisplaySize(i));
 			}
 		} catch (Exception e) {
 			e.printStackTrace();
