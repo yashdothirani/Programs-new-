@@ -1,3 +1,11 @@
+/*
+create or replace procedure getSal(num IN number,sal OUT float)
+as
+BEGIN
+    select ESAL into sal from emp1 where ENO = num;
+END getSal;
+/
+ */
 package com.yash.jdbc;
 
 import java.sql.*;
