@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="ojdbc8">
+    <CLASSES>
+      <root url="jar://C:/Oracle18xe/product/18.0.0/dbhomeXE/jdbc/lib/ojdbc8.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/Compressed/commons-dbcp2-2.9.0.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/Compressed/commons-logging-1.2.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/Compressed/commons-pool2-2.11.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
