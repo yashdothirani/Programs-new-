@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="c3p0-0.9.5.5">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../Sample Files/Connection_Pooling_ThirdParty_JAR/c3p0/c3p0-0.9.5.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../Sample Files/Connection_Pooling_ThirdParty_JAR/c3p0/c3p0-oracle-thin-extras-0.9.5.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../Sample Files/Connection_Pooling_ThirdParty_JAR/c3p0/mchange-commons-java-0.2.19.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../Sample Files/Connection_Pooling_ThirdParty_JAR/c3p0/ojdbc8.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
