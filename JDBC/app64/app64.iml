@@ -7,6 +7,9 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="commons-logging-1.2" level="project" />
+    <orderEntry type="library" name="ojdbc8" level="project" />
+    <orderEntry type="library" name="proxool-0.9.1" level="project" />
     <orderEntry type="library" name="proxool-cglib" level="project" />
   </component>
 </module>
