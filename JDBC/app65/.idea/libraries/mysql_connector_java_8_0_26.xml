@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="mysql-connector-java-8.0.26">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../Sample Files/mysql-connector-java-8.0.26.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../Sample Files/Connection_Pooling_ThirdParty_JAR/proxool/proxool-cglib.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../Sample Files/Connection_Pooling_ThirdParty_JAR/proxool/commons-logging-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../Sample Files/Connection_Pooling_ThirdParty_JAR/proxool/proxool-0.9.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../Sample Files/Connection_Pooling_ThirdParty_JAR/proxool/ojdbc8.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
