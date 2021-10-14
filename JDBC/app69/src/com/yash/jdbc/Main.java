@@ -24,6 +24,7 @@ public class Main {
                 if (rowSet.getFloat(3) < range)
 rowSet.deleteRow();
             }
+            rowSet.close();
         } catch (Exception e) {
             e.printStackTrace();
         }
