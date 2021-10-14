@@ -31,7 +31,7 @@ public class Main {
                     rowSet.updateRow();
                 }
             }
-
+rowSet.close();
         }catch (Exception e){
             e.printStackTrace();
         }
