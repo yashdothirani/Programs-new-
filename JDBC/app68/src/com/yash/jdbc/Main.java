@@ -28,6 +28,7 @@ public class Main {
                 float sal = rowSet.getFloat("esal");
                 if (sal < range) {
                     rowSet.updateFloat("ESAL",sal+bonus);
+                    rowSet.updateRow();
                 }
             }
 
